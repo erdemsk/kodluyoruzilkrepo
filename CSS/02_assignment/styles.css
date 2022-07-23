@@ -1,0 +1,36 @@
+.logo{
+    display: block;
+    margin: 0 auto;
+}
+.search-bar{
+    text-align: center;
+    background-color: rgba(184, 177, 177, 0.212);
+}
+.search-bar > input{
+    width: 400px;
+}
+.categories{
+    width: 39%;
+    height: 80px;
+    margin: 2px 2px;
+    padding: 2px;;
+    display: inline-block;
+    text-align: center;
+}
+#first-box{
+    background-color: rgb(101, 233, 233);
+    float: left;
+}
+#second-box{
+    width: 20%;
+    background-color: rgb(72, 182, 182);
+    float: left;
+}
+#third-box{
+    background-color: rgb(73, 212, 212);
+    float: left;
+}
+footer > p{
+    text-align: center;
+    margin-top: 8%;
+}
